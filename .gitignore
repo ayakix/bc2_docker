@@ -1,0 +1,7 @@
+
+# Created by https://www.gitignore.io/api/osx,windows
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
